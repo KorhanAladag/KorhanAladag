@@ -8,8 +8,6 @@ I'm Korhan Aladağ, a front-end developer with a passion for software. I'm profi
 
 I'm excited to share my work with you, and I hope you enjoy it. If you have any questions, please don't hesitate to contact me by korhanaladag.dev@gmail.com .
 
-Thanks,
-Korhan Aladağ
 
 
 ## 🔗 Links
