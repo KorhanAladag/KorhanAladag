@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm Korhan Aladağ, a front-end developer with a passion for software. I'm proficient in HTML, CSS, JavaScript, Firebase and React. I'm always looking for new ways to learn and grow, and I'm always up for a challenge.
+I'm Korhan Aladağ, a python developer with a passion for software. I'm proficient in Python. I'm always looking for new ways to learn and grow, and I'm always up for a challenge.
 
 I'm excited to share my work with you, and I hope you enjoy it. If you have any questions, please don't hesitate to contact me by korhanaladag.dev@gmail.com .
 
