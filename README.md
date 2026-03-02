@@ -2,7 +2,7 @@
 # Hi, I'm Korhan! 👋
 
 
-## 🚀 About Me
+## About Me
 
 I'm a Master's student in Big Data and Artificial Intelligence at SRH University Berlin, specializing in Machine Learning, Deep Learning, Data Science and Artificial Intelligence.
 
