@@ -4,10 +4,14 @@
 
 ## 🚀 About Me
 
-I'm Korhan Aladağ, a python developer with a passion for software. I'm proficient in Python. I'm always looking for new ways to learn and grow, and I'm always up for a challenge.
+I'm a Master's student in Big Data and Artificial Intelligence at SRH University Berlin, specializing in Machine Learning, Deep Learning, Data Science and Artificial Intelligence.
 
 I'm excited to share my work with you, and I hope you enjoy it. If you have any questions, please don't hesitate to contact me by korhanaladag.dev@gmail.com .
 
+## 💻 Tech Stack
+- **Languages:** Python
+- **Frameworks:** PyTorch, Scikit-learn, OpenCV
+- **Tools:** NumPy, Pandas, Jupyter, Git
 
 
 ## 🔗 Links
