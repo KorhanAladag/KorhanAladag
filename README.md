@@ -15,4 +15,4 @@ I'm excited to share my work with you, and I hope you enjoy it. If you have any 
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korhan-alada%C4%9F-a94434180)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korhanaladag)
